@@ -1,7 +1,8 @@
 {
-  "repo": "REPLACED_AT_PROVISION",
+  "repo": "LinneaMyde/portfolio",
   "branch": "main",
   "authBaseUrl": "https://auth.usegesso.com",
-  "host": "netlify",
-  "formEndpoint": ""
+  "host": "github-pages",
+  "formEndpoint": "https://formsubmit.co/linneamyde.art%40outlook.com",
+  "gessoVersion": "0.43.3"
 }
